@@ -51,13 +51,13 @@
 	<namespace> </namespace>
 	</ros>
 	
-	<num_wheel_pairs>3</num_wheel_pairs>
+	<num_wheel_pairs>2</num_wheel_pairs>
 	
 	<left_joint>wheel4_joint</left_joint>
 	<right_joint>wheel3_joint</right_joint>
 	
-	<left_joint>wheel6_joint</left_joint>
-    	<right_joint>wheel5_joint</right_joint>
+	<!--<left_joint>wheel6_joint</left_joint>-->
+    <!--<right_joint>wheel5_joint</right_joint>-->
 	
 	<left_joint>wheel2_joint</left_joint>
 	<right_joint>wheel1_joint</right_joint>
